@@ -1,0 +1,67 @@
+{
+    "currencies": [
+        {
+            "country": "United States",
+            "currency_name": "Dollar",
+            "currency_code": "USD",
+            "symbol": "$",
+            "exchange_rate_usd": 1
+        },
+        {
+            "country": "European Union",
+            "currency_name": "Euro",
+            "currency_code": "EUR",
+            "symbol": "€",
+            "exchange_rate_usd": 1.1
+        },
+        {
+            "country": "United Kingdom",
+            "currency_name": "Pound Sterling",
+            "currency_code": "GBP",
+            "symbol": "£",
+            "exchange_rate_usd": 1.3
+        },
+        {
+            "country": "Japan",
+            "currency_name": "Yen",
+            "currency_code": "JPY",
+            "symbol": "¥",
+            "exchange_rate_usd": 0.007
+        },
+        {
+            "country": "China",
+            "currency_name": "Yuan",
+            "currency_code": "CNY",
+            "symbol": "¥",
+            "exchange_rate_usd": 0.14
+        },
+        {
+            "country": "Egypt",
+            "currency_name": "Egyptian Pound",
+            "currency_code": "EGP",
+            "symbol": "£",
+            "exchange_rate_usd": 0.032
+        },
+        {
+            "country": "Saudi Arabia",
+            "currency_name": "Saudi Riyal",
+            "currency_code": "SAR",
+            "symbol": "﷼",
+            "exchange_rate_usd": 0.27
+        },
+        {
+            "country": "India",
+            "currency_name": "Indian Rupee",
+            "currency_code": "INR",
+            "symbol": "₹",
+            "exchange_rate_usd": 0.012
+        },
+        {
+            "country": "Australia",
+            "currency_name": "Australian Dollar",
+            "currency_code": "AUD",
+            "symbol": "$",
+            "exchange_rate_usd": 0.65
+        }
+    ]
+}
